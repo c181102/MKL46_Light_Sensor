@@ -1,0 +1,4 @@
+../middleware/light_sensor.c:23:6:light_sensor_init	8	static
+../middleware/light_sensor.c:29:10:light_get_data	24	static
+../middleware/light_sensor.c:36:6:light_push_data	16	static
+../middleware/light_sensor.c:41:6:light_display_data	8	static

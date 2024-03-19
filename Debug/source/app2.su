@@ -1,0 +1,4 @@
+D:\MCU_E\workplace\app2\CMSIS/core_cm0plus.h:840:22:__NVIC_SetPriority	24	static
+../source/app2.c:8:13:UART_Rx_Callback	16	static
+../source/app2.c:20:13:Timer_Callback	16	static
+../source/app2.c:46:5:main	8	static
